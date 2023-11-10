@@ -12,6 +12,11 @@ The Real-Time Bus and Ferry Updates Prototype showcases live information about t
 - **Arrival and Departure Times:** Information on upcoming arrivals and departures for both buses and ferries.
 - **Map Interface:** View the real-time updates on a map through the `client.php` page.
 
+<img width="395" alt="Screenshot 2023-11-10 154333" src="https://github.com/elijahwgummer-poc/Website-Application-RealTime-Bus-Updates-Xampp-GTFS-Data/assets/96103526/35e7350b-3bad-47d7-9df4-2d5f28b37b4a">
+<img width="396" alt="Screenshot 2023-11-10 154309" src="https://github.com/elijahwgummer-poc/Website-Application-RealTime-Bus-Updates-Xampp-GTFS-Data/assets/96103526/26f4b52c-532f-4c0f-9b90-7c8c56159228">
+<img width="400" alt="Screenshot 2023-11-10 154356" src="https://github.com/elijahwgummer-poc/Website-Application-RealTime-Bus-Updates-Xampp-GTFS-Data/assets/96103526/a0b01cae-cfaa-4c2f-967a-0b749b3281cc">
+
+
 ## Getting Started 🛠️
 
 1. Clone the repository:
