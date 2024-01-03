@@ -1,4 +1,4 @@
-# Real-Time Bus and Ferry Updates Prototype 🚌⛴️
+# Real-Time Bus and Ferry Updates Prototype 🚌⛴️ (IN PROGRESS)
 
 This prototype website application displays real-time updates for buses and ferries in Brisbane using GTFS data obtained from the Translink GeoJSON API. The application is built with PHP, CSS, and MySQL (managed via phpMyAdmin).
 
